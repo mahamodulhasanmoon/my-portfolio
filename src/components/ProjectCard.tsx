@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function ProjectCard() {
   return (
-    <div
+    <div 
     className="react-reveal singleProject"
     style={{
         backgroundColor: "#081c50",
