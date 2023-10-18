@@ -1,3 +1,4 @@
+import Blogs from "@/sections/Blogs";
 import Projects from "@/sections/Projects";
 
 
@@ -7,6 +8,7 @@ export default function Home() {
 <main >
 
   <Projects/>
+  <Blogs/>
 </main>
   )
 }

@@ -26,6 +26,7 @@ export default function ProjectCard() {
         <div className="project--showcaseBtn">
             <a
                 href="https://www.aylanetworks.com/"
+                style={{color:'rgb(29, 155, 240)'}}
                 target="_blank"
                 rel="noreferrer"
                 className="jss85"
@@ -48,6 +49,7 @@ export default function ProjectCard() {
             </a>
             <a
                 href=""
+                style={{color:'rgb(29, 155, 240)'}}
                 target="_blank"
                 rel="noreferrer"
                 className="jss85"
