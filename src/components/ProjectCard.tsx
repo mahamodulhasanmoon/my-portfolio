@@ -6,7 +6,7 @@ export default function ProjectCard() {
     <div
     className="react-reveal singleProject"
     style={{
-        backgroundColor: "#191D2B",
+        backgroundColor: "#081c50",
         animationFillMode: "both",
         animationDuration: "1000ms",
         animationDelay: "0ms",
