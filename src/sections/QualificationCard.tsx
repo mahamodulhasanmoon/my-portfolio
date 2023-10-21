@@ -26,12 +26,24 @@ export default function QualificationCard() {
       />
     </div>
     <div className="experience-details">
-      <h6 style={{ color: "rgb(29, 155, 240)" }}>Jan 2022-Present</h6>
-      <h4 style={{ color: "rgb(239, 243, 244)" }}>Software Engineer I</h4>
+  
+
+<>
+
+<h4 style={{ color: "rgb(239, 243, 244)" }}>Software Engineer </h4>
       <h5 style={{ color: "rgb(239, 243, 244)" }}>
         Teton Private Limited
       </h5>
+      <h6 style={{ color: "rgb(29, 155, 240)",marginTop:5 }}>Jan 2022-Present</h6>
+
+</>
+
+
+
     </div>
+    <div className="responsibilities">
+  hello
+</div>
   </div>
   )
 }
