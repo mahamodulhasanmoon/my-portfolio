@@ -9,7 +9,7 @@ export default function BlogCard() {
         target="_blank"
         rel="noreferrer"
         style={{
-            backgroundColor: "#081c50",
+            backgroundColor: "#black",
           animationFillMode: "both",
           animationDuration: "1000ms",
           animationDelay: "0ms",
